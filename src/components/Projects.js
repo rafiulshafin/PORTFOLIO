@@ -1,0 +1,1 @@
+// The entire Projects component is removed as per user request. 
